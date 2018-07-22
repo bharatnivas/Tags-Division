@@ -1,0 +1,73 @@
+body{
+    background-color:#abbcfd;
+}
+.seconddiv{
+    background-color: #fff;
+
+}
+.maindiv{
+    padding: 50px;
+    -webkit-box-shadow: 6px 3px 16px -3px rgba(255, 255, 255, 0.94);
+    -moz-box-shadow: 6px 3px 16px -3px rgba(0,0,0,0.75);
+    box-shadow: 6px 3px 16px -3px rgba(255, 255, 255, 0.75);
+    margin: 50px;
+}
+.banner-fix {
+    padding-top: 8%;
+}
+#LogoDesign {
+    background: #000;
+    color: #fff;
+    font-size: 63px;
+    padding: 35px;
+    text-transform: uppercase;
+}
+.LogoDesignpart{
+    background:#000;
+    padding: 4px;
+    margin-top: 22px;
+}
+.BannerText h1 {
+    font-size: 54px;
+}
+
+.BannerText p {
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.SectionTwo {
+    padding-top: 3%;
+    padding-left: 15px;
+}
+.projectlist{
+    -webkit-box-shadow: 3px 4px 17px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 4px 17px -4px rgba(0,0,0,0.75);
+    box-shadow: 3px 4px 17px -4px rgba(0,0,0,0.75);
+    padding:80px;
+    margin-bottom:5%;
+}
+.footer{
+    background: #f8f9fa;
+}
+.borderplan {
+    max-width: 910px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+.bannertext {
+    max-width: 799px;
+    padding-bottom: 10%;
+    margin: 0 auto;
+    border: 1px solid;
+}
+.serviceplan {
+    border: 1px solid;
+    /* margin-top: 4%; */
+    max-width: 799px;
+    margin: 0 auto;
+}
+.sectionfooter {
+    padding: 2%;
+}
